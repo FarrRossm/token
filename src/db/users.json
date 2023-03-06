@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Mirolim",
+        "isAdmin": true,
+        "isDeleted": true,
+        "money": 900
+    },
+    {
+        "id": 2,
+        "name": "Baxrullo",
+        "isAdmin": true,
+        "isDeleted": false,
+        "money": 500
+    },
+    {
+        "id": 3,
+        "name": "Ozodbek",
+        "isAdmin": true,
+        "isDeleted": false,
+        "money": 500
+    },
+    {
+        "id": 4,
+        "name": "Baxtiyor",
+        "isAdmin": true,
+        "isDeleted": false,
+        "money": 0
+    }
+]

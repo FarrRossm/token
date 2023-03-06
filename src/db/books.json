@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Ufq",
+        "price": 70000,
+        "about": "Zahiriddin Muhammad Boburning avlodlari hayoti va ijodi haqida",
+        "author": "Pirimqul Qodirov",
+        "count": 30,
+        "isDeleted": 4
+    },
+    {
+        "id": 2,
+        "name": "Mirolim farr",
+        "price": 70000,
+        "about": "Zahiriddin Muhammad Boburning avlodlari hayoti va ijodi haqida",
+        "author": "Pirimqul Qodirov",
+        "count": 30,
+        "isDeleted": 4
+    },
+    {
+        "id": 3,
+        "name": "Baxrullo baxa",
+        "price": 70000,
+        "about": "Zahiriddin Muhammad Boburning avlodlari hayoti va ijodi haqida",
+        "author": "Pirimqul Qodirov",
+        "count": 30,
+        "isDeleted": 4
+    }
+]
